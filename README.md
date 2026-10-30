@@ -1,4 +1,4 @@
-# Pilihin-Thrift-Marketplace-UI-UX-Design-HCI-Project-
+# PilihIn - Thrift Marketplace - UI/UX 
 🛍️ PILIHIN – UI/UX DESIGN PROJECT
 Pilihin is a Human-Computer Interaction (HCI) project focused on designing the UI/UX of a thrift marketplace application that offers a more modern and user-friendly shopping experience.
 
